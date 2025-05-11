@@ -8,3 +8,4 @@ git branch --set-upstream-to=origin/dev
 git branch --set-upstream-to=origin/dev dev
 
 add new info
+测试git pull操作

@@ -2,3 +2,8 @@
 sdad
 reset test
 new info
+add some info to commit and push
+branch dev master here
+git branch --set-upstream-to=origin/dev
+git branch --set-upstream-to=origin/dev dev
+

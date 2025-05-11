@@ -1,2 +1,4 @@
 123s
 sdad
+reset test
+new info
